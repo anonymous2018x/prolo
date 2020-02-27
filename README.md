@@ -3,7 +3,7 @@ prolo is a php web framework used to easly render user interface and reduce html
 ## Introduction
 
 * **understanding the config file**
-</br>
+#
 The most basic thing to know is how to use the config file. It contains various configurations including app and database configurations.
 
   ```php
