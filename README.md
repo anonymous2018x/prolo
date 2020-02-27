@@ -1,5 +1,5 @@
 # PROLO
-prolo is a php web framework used to easly render user interface and reduce html codding by enabling code reusing and implementing opensorce framework like bootstrap classes.
+prolo is a php web framework used to easly render user interface and reduce html codding by enabling code reusing and implementing opensorce frameworks like bootstrap classes, medoo and php mailer.
 ## Introduction
 
 * **understanding the config file**:
