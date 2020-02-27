@@ -4,11 +4,9 @@ prolo is a php web framework used to easly render user interface and reduce html
 * **creating your first web page**
 
   ```php
-  
-require 'view.php';
-$page=new Page();
-$page->start("home");
-
-$page->end();
+  require 'view.php';
+  $page=new Page();
+  $page->start("home");
+  $page->end();
 
   ```
