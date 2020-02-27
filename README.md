@@ -2,8 +2,7 @@
 prolo is a php web framework used to easly render user interface and reduce html codding by enabling code reusing and implementing opensorce framework like bootstrap classes.
 ## Introduction
 
-* **understanding the config file**
-#
+* **understanding the config file**:
 The most basic thing to know is how to use the config file. It contains various configurations including app and database configurations.
 
   ```php
