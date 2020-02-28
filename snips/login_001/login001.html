@@ -1,0 +1,29 @@
+<div class="container frm-login">
+    <div class="row align-items-center h-100">
+        <div class="px-4 col col-sm-6 col-md-6 col-lg-5 col-xl-4 mx-auto my-4 bg-light rounded">
+            <div class="row justify-content-center my-3">
+                <div class="row">
+                    <img src="<%%ICON(login.png)%%>" alt="login" width="50px" height="50px" class="rounded-circle">
+                </div>
+            </div>
+            <p class="text-muted">welcome to <%%DATA(app-name)%%></p>
+            <form action="<%%DATA(action)%%>" method="<%%DATA(method)%%>">
+                <div class="form-group">
+                    <input class="form-control form-control-md" placeholder="User email" type="text">
+                </div>
+                <div class="form-group">
+                    <input class="form-control form-control-md" placeholder="Password" type="password">
+                </div>
+                <div class="form-group">
+                    <button name="prolo-loguser"class="btn btn-info btn-md   btn-block">Sign In</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<style>
+.frm-login{
+height: 50%;
+margin-top: 15%;
+}
+</style>
