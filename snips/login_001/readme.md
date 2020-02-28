@@ -10,9 +10,9 @@
     $code->getIcons();
     $code->show();
 ```
-> the fiels includes:
+> the fields names are:
 > * password
 > * email
->the button name is prolo-loguser
+>* and the submit button name is prolo-loguser
 
 ![screenshot](screen.png)
