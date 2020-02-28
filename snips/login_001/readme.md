@@ -10,4 +10,8 @@
     $code->getIcons();
     $code->show();
 ```
+> the fiels includes:
+* password
+* email
+>the button name is prolo-loguser
 ![screenshot](screen.png)
