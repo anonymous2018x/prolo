@@ -11,8 +11,8 @@
     $code->show();
 ```
 > the fiels includes:
-* password
-* email
+> * password
+> * email
 >the button name is prolo-loguser
 
 ![screenshot](screen.png)
